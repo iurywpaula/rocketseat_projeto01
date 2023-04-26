@@ -1,0 +1,58 @@
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#hero{
+  width: 592px;
+  margin: auto;
+  margin: 0 auto 72px;
+}
+
+#hero img{
+  margin-bottom: 72px;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+h1 span {
+  font-weight: bold;
+}
+
+
+p, footer {
+  color: #7D7987;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+.laranja {
+  color: #FF9900;
+}
+
+#footer a  + a{
+  margin-left: 28px;
+}
+
+#line {
+  margin: 0px auto 8px;
+  width: 568px;
+  border-bottom: 1px solid #c9c9c9;
+}
+
+#balls {
+  position: fixed;
+  bottom: 40px;
+  right: 150px;
+}
